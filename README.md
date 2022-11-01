@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Python, Django, AI/ML, Automation, Backend Development**
 
