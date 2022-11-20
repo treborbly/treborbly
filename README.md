@@ -1,6 +1,6 @@
 <img align="center" alt="code" width="1100" height="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">Hi 👋, I'm Robert Bailey!</h1>
-<h3 align="center">I'm a Python developer from the Philippines</h3>
+<h3 align="center">I'm a developer from the Philippines</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treborbly&label=Profile%20views&color=0e75b6&style=flat" alt="treborbly" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Python, Django, AI/ML, Automation, Backend Development**
+- 💬 Ask me about **Python, TypeScript, React, Django, AI/ML, Automation**
 
 - 📫 How to reach me **robertsimonbailey@gmail.com**
 
