@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Python, TypeScript, React, Django, AI/ML, Automation**
+- 💬 Ask me about **Python, TypeScript, Rust, Django, AI/ML, Automation**
 
 - 📫 How to reach me **robertsimonbailey@gmail.com**
 
