@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SUiPyPq23TMv-d_VVQD0tuHyxwyIrLOLDidA6bwCYlM/edit?usp=sharing](https://docs.google.com/document/d/1SUiPyPq23TMv-d_VVQD0tuHyxwyIrLOLDidA6bwCYlM/edit?usp=sharing)
 
-- ⚡ Fun fact **I love pizza.**
+- ⚡ Fun fact **I'm studying to become a lawyer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
