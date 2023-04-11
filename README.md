@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, TypeScript, Rust, Django, AI/ML, Automation**
 
-- 📫 How to reach me **robertsimonbailey@gmail.com**
+- 📫 How to reach me **robertbailey@zeegod.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SUiPyPq23TMv-d_VVQD0tuHyxwyIrLOLDidA6bwCYlM/edit?usp=sharing](https://docs.google.com/document/d/1SUiPyPq23TMv-d_VVQD0tuHyxwyIrLOLDidA6bwCYlM/edit?usp=sharing)
 
